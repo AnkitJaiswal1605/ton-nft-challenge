@@ -1,0 +1,1 @@
+tg - https://t.me/Vasdasd  [https://testnet.getgems.io/collection/EQCuGYfHaErevjYG2jW3rzli3IS8xmqqLCehHFUhbGy_57cq]
