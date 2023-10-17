@@ -1,1 +1,2 @@
 @alefman - [address nft collection](https://testnet.getgems.io/collection/EQBsaviU89uTy1NCTyMe8GXIB3LrGy7CgInoAI7rGjVR1tLm)
+@malodiedoleksii - [addres nft collection](https://testnet.getgems.io/collection/EQDlsfqkOhj0IhIChbUkeyfJM03BdvxapLCyUjlAHWOOHIR1)
