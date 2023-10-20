@@ -1,1 +1,1 @@
-@alefman - [address nft collection](https://testnet.getgems.io/collection/EQBsaviU89uTy1NCTyMe8GXIB3LrGy7CgInoAI7rGjVR1tLm)
+@ostrows - [address nft collection](https://testnet.getgems.io/collection/EQDlx77cpUR5kESCFsYz4OHcZ56l1L0bmx30bGhYDFWgDmrY)
