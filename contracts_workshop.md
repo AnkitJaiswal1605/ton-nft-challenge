@@ -9,3 +9,5 @@
 @sun_rhythms - [address nft collection](https://testnet.getgems.io/collection/EQDAIhRmdIIK0jskJOoCkzpHK2Mv3OItURCSVQvvSJeUYVLk)
 
 @ocepiruki - [address nft collection](https://testnet.getgems.io/collection/EQCd_wf79mHBJ6QWdoyfo89Y40NlY2vcDZ5ZB508SkTWhWJm)
+
+@ostrows - [address nft collection](https://testnet.getgems.io/collection/EQDlx77cpUR5kESCFsYz4OHcZ56l1L0bmx30bGhYDFWgDmrY)
