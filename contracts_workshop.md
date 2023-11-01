@@ -11,3 +11,5 @@
 @ocepiruki - [address nft collection](https://testnet.getgems.io/collection/EQCd_wf79mHBJ6QWdoyfo89Y40NlY2vcDZ5ZB508SkTWhWJm)
 
 @ostrows - [address nft collection](https://testnet.getgems.io/collection/EQDlx77cpUR5kESCFsYz4OHcZ56l1L0bmx30bGhYDFWgDmrY)
+
+@alexei_kukharenka - [address nft collection](https://testnet.getgems.io/collection/EQDJeHVVTbrMzxchJ9UK7cWvBivmRIkaQ7Ok43pCGOQVGbTE)

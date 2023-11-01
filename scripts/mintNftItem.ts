@@ -8,7 +8,6 @@ export async function run(provider: NetworkProvider) {
     const nft_collection_address = Address.parse("EQCd_wf79mHBJ6QWdoyfo89Y40NlY2vcDZ5ZB508SkTWhWJm")
 
     const nftCollection = provider.open(NftCollection.fromAddress(nft_collection_address));
-    
     const message: Mint = {
         $$type: 'Mint',
         query_id: 0n
