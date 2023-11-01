@@ -1,12 +1,13 @@
 import { Address, toNano } from 'ton-core';
+import { NftItem } from '../wrappers/NftItem';
 import { NetworkProvider } from '@ton-community/blueprint';
 import { Mint, NftCollection } from '../wrappers/NftCollection';
 
 export async function run(provider: NetworkProvider) {
-    const nft_collection_address = Address.parse("EQDJeHVVTbrMzxchJ9UK7cWvBivmRIkaQ7Ok43pCGOQVGbTE")
+
+    const nft_collection_address = Address.parse("EQCd_wf79mHBJ6QWdoyfo89Y40NlY2vcDZ5ZB508SkTWhWJm")
 
     const nftCollection = provider.open(NftCollection.fromAddress(nft_collection_address));
-
     const message: Mint = {
         $$type: 'Mint',
         query_id: 0n
