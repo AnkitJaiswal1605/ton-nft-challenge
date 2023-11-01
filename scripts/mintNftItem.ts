@@ -4,7 +4,7 @@ import { NetworkProvider } from '@ton-community/blueprint';
 import { Mint, NftCollection } from '../wrappers/NftCollection';
 
 export async function run(provider: NetworkProvider) {
-    const nft_collection_address = Address.parse("EQDPjNZYRWUDcrmjY7sFzqXz-UX_gWU_WwFC7MWNThmyAjjW")
+    const nft_collection_address = Address.parse("EQDlsfqkOhj0IhIChbUkeyfJM03BdvxapLCyUjlAHWOOHIR1")
 
     const nftCollection = provider.open(NftCollection.fromAddress(nft_collection_address));
     
