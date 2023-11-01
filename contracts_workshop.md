@@ -17,3 +17,5 @@
 @Darja22 - [address nft collection](https://testnet.getgems.io/collection/EQAjahWzw4yjk8hd87GtjXVyb4sENmvaD4iCSZP5mZNM8K8C)
 
 @vitalylukyanchenko - [address nft collection](https://testnet.getgems.io/collection/EQCwiyA95pWDFqzF-UUtMQMayG4_RjwrNg3YPvW9y49SkHpT)
+
+@gavrisalive - [address nft collection](https://testnet.getgems.io/collection/EQBmF1pzPy_teT0gEp_oD2mnJnRnEe5ZqVv7r4N2V440Gpbg)
