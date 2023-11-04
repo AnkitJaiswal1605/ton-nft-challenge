@@ -1,7 +1,5 @@
 # TON NFT Challenge
 
-### Prizes worth 15000 INR in Toncoin
-
 Task 1: Create an NFT Collection from the GitHub Repository
 
 Steps:
