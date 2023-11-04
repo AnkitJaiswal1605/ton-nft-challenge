@@ -39,4 +39,4 @@ Creativity: How unique and innovative is the NFT collection's theme and concept?
 UI Design: Is the user interface visually appealing and user-friendly?
 Integration: How well does the UI interact with the smart contracts, and is the NFT collection easily accessible to users?
 Technical Proficiency: Are the smart contracts well-written? Is the Testnet deployment successful?
-Presentation: How effectively do the participants present their project and explain its features and purpose?
+Presentation: How effectively do the participants present their project and explain its features and purpose !!?
