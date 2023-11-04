@@ -1,5 +1,5 @@
 # TON NFT Challenge
-
+## Address (Collection):  EQANLBfkPiFH-k8DBWnBPXXIqdoc1gB7Y20llcshVgZukU8T
 ### Prizes worth 15000 INR in Toncoin
 
 ### Deadline: 4 November, 6 PM
