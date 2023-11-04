@@ -1,4 +1,4 @@
-import { beginCell, toNano } from 'ton-core';
+    import { beginCell, toNano } from 'ton-core';
 import { NftCollection } from '../wrappers/NftCollection';
 import { NetworkProvider } from '@ton-community/blueprint';
 
