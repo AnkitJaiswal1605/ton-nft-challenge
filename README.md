@@ -40,3 +40,18 @@ UI Design: Is the user interface visually appealing and user-friendly?
 Integration: How well does the UI interact with the smart contracts, and is the NFT collection easily accessible to users?
 Technical Proficiency: Are the smart contracts well-written? Is the Testnet deployment successful?
 Presentation: How effectively do the participants present their project and explain its features and purpose?
+
+
+Completed Task :- 
+NFT Collection 
+Contract deployed at address EQBr9QdShZCcKsU4YlbTzmEcuWS65Xi-7C8ZWPWTqZEUzrN0
+You can view it at https://testnet.tonscan.org/address/EQBr9QdShZCcKsU4YlbTzmEcuWS65Xi-7C8ZWPWTqZEUzrN0
+
+Single NFT 
+
+Contract deployed at address EQCp5_ZEVFOr3HK2wEtkYzLv-9AjxNhLJGCTHoE1IyovkV9d
+You can view it at https://testnet.tonscan.org/address/EQCp5_ZEVFOr3HK2wEtkYzLv-9AjxNhLJGCTHoE1IyovkV9d
+
+Successfully uploaded the pictures to ipfs: https://gateway.pinata.cloud/ipfs/QmatQQTh9ZfPC1nSmvnqwuKAxUJxb32WiZpDMDjgR67jTZ
+Started uploading metadata files to IPFS...
+Successfully uploaded the metadata to ipfs: https://gateway.pinata.cloud/ipfs/QmQbBeEhaJyYPq86PYj9cvQW64y81CbdZrra522PfjCBzj
