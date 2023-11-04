@@ -1,5 +1,8 @@
 # TON NFT Challenge
 
+## Contract deployed at address:
+EQCBcpDfaIzgRZHO_tQhHcJNV3wOIt_BOVsBWzWlAOIN8JbA
+
 ### Prizes worth 15000 INR in Toncoin
 
 ### Deadline: 4 November, 6 PM
