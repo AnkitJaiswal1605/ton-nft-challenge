@@ -5,7 +5,7 @@ import { Mint, NftCollection } from '../wrappers/NftCollection';
 
 export async function run(provider: NetworkProvider) {
 
-    const nft_collection_address = Address.parse("EQBr9QdShZCcKsU4YlbTzmEcuWS65Xi-7C8ZWPWTqZEUzrN0  ")
+    const nft_collection_address = Address.parse("EQAPEt3Ia1Zu403tLPwmLa-rCdLNcQDGVIZGLrooU2J5yWRk")
 
     const nftCollection = provider.open(NftCollection.fromAddress(nft_collection_address));
     const message: Mint = {
@@ -27,6 +27,8 @@ export async function run(provider: NetworkProvider) {
     await provider.waitForDeploy(nftItemAddress as Address);
 
     // run methods on `nftItem`
+
+    
 }
 function encodeNftItem(arg0: string): import("ton-core").Cell {
     throw new Error('Function not implemented.');

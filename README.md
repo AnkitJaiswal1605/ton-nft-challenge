@@ -44,13 +44,13 @@ Presentation: How effectively do the participants present their project and expl
 
 Completed Task :- 
 NFT Collection 
-Contract deployed at address EQBr9QdShZCcKsU4YlbTzmEcuWS65Xi-7C8ZWPWTqZEUzrN0
-You can view it at https://testnet.tonscan.org/address/EQBr9QdShZCcKsU4YlbTzmEcuWS65Xi-7C8ZWPWTqZEUzrN0
+Contract deployed at address EQAPEt3Ia1Zu403tLPwmLa-rCdLNcQDGVIZGLrooU2J5yWRk
+You can view it at https://testnet.tonscan.org/address/EQAPEt3Ia1Zu403tLPwmLa-rCdLNcQDGVIZGLrooU2J5yWRk
 
 Single NFT 
 
-Contract deployed at address EQCp5_ZEVFOr3HK2wEtkYzLv-9AjxNhLJGCTHoE1IyovkV9d
-You can view it at https://testnet.tonscan.org/address/EQCp5_ZEVFOr3HK2wEtkYzLv-9AjxNhLJGCTHoE1IyovkV9d
+Contract deployed at address EQAXJva4DH1M3hwuwlvlJym8E9bXEgJ_M4hoX83vnqyzKYpX
+You can view it at https://testnet.tonscan.org/address/EQAXJva4DH1M3hwuwlvlJym8E9bXEgJ_M4hoX83vnqyzKYpX
 
 Successfully uploaded the pictures to ipfs: https://gateway.pinata.cloud/ipfs/QmatQQTh9ZfPC1nSmvnqwuKAxUJxb32WiZpDMDjgR67jTZ
 Started uploading metadata files to IPFS...
