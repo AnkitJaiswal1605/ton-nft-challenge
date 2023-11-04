@@ -1,5 +1,9 @@
 # TON NFT Challenge
 
+### Prizes worth 15000 INR in Toncoin
+
+### Deadline: 4 November, 6 PM
+
 Task 1: Create an NFT Collection from the GitHub Repository
 
 Steps:
