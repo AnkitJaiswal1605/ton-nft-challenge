@@ -10,6 +10,7 @@ describe('NftItem', () => {
     beforeEach(async () => {
         blockchain = await Blockchain.create();
 
+        // nftItem = blockchain.openContract(await NftItem.fromInit());
         nftItem = blockchain.openContract(await NftItem.fromInit());
 
         const deployer = await blockchain.treasury('deployer');
