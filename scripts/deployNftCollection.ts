@@ -4,7 +4,7 @@ import { NetworkProvider } from '@ton-community/blueprint';
 
 export async function run(provider: NetworkProvider) {
     const OFFCHAIN_CONTENT_PREFIX = 0x01;
-    const metadata_link = "https://ivory-peaceful-xerinae-817.mypinata.cloud/ipfs/QmQfx8GsreZkQ3eXpa8MMZoYX6kYRoGgcp45bbiPUTmnki/"
+    const metadata_link = "https://gateway.pinata.cloud/ipfs/QmY9kUddpmzJdDQrh8wfDSDsB9NBUpDCPs1f64SvRSsDVk"
 
     let content = beginCell().storeInt(OFFCHAIN_CONTENT_PREFIX, 8).storeStringRefTail(metadata_link).endCell();
 

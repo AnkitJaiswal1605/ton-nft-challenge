@@ -5,7 +5,7 @@ import { Mint, NftCollection } from '../wrappers/NftCollection';
 
 export async function run(provider: NetworkProvider) {
 
-    const nft_collection_address = Address.parse("EQCd_wf79mHBJ6QWdoyfo89Y40NlY2vcDZ5ZB508SkTWhWJm")
+    const nft_collection_address = Address.parse("EQAptVbLXSg-7yGi3bRk9H6rnqqWy4d9lyRW1u9VUszlMCCW")
 
     const nftCollection = provider.open(NftCollection.fromAddress(nft_collection_address));
     const message: Mint = {

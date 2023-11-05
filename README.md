@@ -1,5 +1,15 @@
 # TON NFT Challenge
 
+## Contract deployed at address:
+EQCBcpDfaIzgRZHO_tQhHcJNV3wOIt_BOVsBWzWlAOIN8JbA
+
+## Frontend deployed at repo
+https://github.com/prabs222/nft-challenge (Using getgems.io)
+
+## Frontend deployed at repo
+https://github.com/prabs222/TON-NFT-FRONTEND
+
+
 ### Prizes worth 15000 INR in Toncoin
 
 ### Deadline: 4 November, 6 PM
